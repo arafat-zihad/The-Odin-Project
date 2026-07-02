@@ -1,0 +1,22 @@
+.odd {
+  font-family: verdana, sans-serif;
+  background-color: pink;
+  color: black;
+}
+#big {
+  color: blue;
+  font-size: 36px;
+}
+#sz2 {
+  font-size: 24px;
+}
+
+#clr {
+    background-color: green;
+    font-size: 24;
+    color: rgb(255, 255, 255);
+}
+
+.even {
+    font-family: 'Times New Roman', Times, serif;
+}
