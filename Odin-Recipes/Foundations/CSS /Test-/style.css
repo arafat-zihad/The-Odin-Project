@@ -1,0 +1,10 @@
+/* rule 2 */
+.main  {
+  color: red;
+}
+/* rule 1 */
+.main {
+  color: blue;
+}
+
+
