@@ -1,0 +1,11 @@
+/* div {
+    color: white;
+    background-color: red;
+    font-size: 32;
+text-align: center;
+    font-weight: bold;
+} */
+
+* {
+  outline: 2px solid red;
+}
