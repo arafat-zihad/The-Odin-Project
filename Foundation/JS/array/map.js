@@ -22,3 +22,5 @@ function sumOfTripleEvens(array)
 // }
 const mappedArr = arr.map((num) => num + 1);
 console.log(mappedArr)
+
+
