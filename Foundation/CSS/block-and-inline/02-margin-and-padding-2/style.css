@@ -1,0 +1,41 @@
+
+body{
+    background-color: gray;
+    font-family: sans-serif;
+}
+.continer {
+    width: 400px;
+    background-color: white;
+    margin: 16px auto;
+    padding: 8px;
+}
+
+.head {
+    max-width: 200px;
+    padding: 8px;
+    margin-bottom: 8px;
+    background-color: rgb(140, 140, 242);
+}
+
+.para, .continer, .para-n-btn {
+    background-color: dodgerblue;
+}
+.para {
+    background-color: rgb(130, 130, 247);
+    padding: 8px;
+    margin: 8px;
+}
+
+.para-n-btn{
+    text-align: center;
+    background-color: rgb(147, 147, 252);
+    padding: 2px;
+    margin: 8px;
+}
+
+.btn {
+    background-color: white;
+    display: block;
+  margin: 0 auto;
+  padding: 8px 24px;
+}
