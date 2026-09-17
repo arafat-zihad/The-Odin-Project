@@ -1,0 +1,26 @@
+body {
+    max-width: 600px;
+    margin: 0 auto;
+}
+.one {
+    padding: 32px;
+    background-color: pink;
+    max-width: 900px;
+    border: 2px solid blue;
+    margin: 12px;
+}
+
+.two {
+    background-color: rgb(122, 122, 234);
+    border: 2px solid red;
+    margin-bottom: 48px;
+}
+
+.three {
+    background-color: bisque;
+    border: 2px solid rgb(0, 102, 27);
+    padding: 30px;
+    margin-left: auto;
+    width: 200px;
+
+}
